@@ -1,0 +1,17 @@
+# Віртуальне оточення
+.venv/
+venv/
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# База даних
+db.sqlite3
+db.sqlite3-journal
+
+# Секрети
+.env
+
+# Системне
+.DS_Store
